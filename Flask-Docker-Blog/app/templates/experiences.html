@@ -1,0 +1,132 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+  <div class="container" data-aos="slide-right" data-aos-duration="1000" data-aos-repeat="true">
+    <div id="slider" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="card text-center">
+            <img class="card-img-top" src={{ monitor }} alt="Avatar" style="width: 80px; height: 80px;">
+            <div class="card-body">
+              <h3 class="card-title">Software Development</h3>
+              <p class="card-text">Con experiencia en programación funcional y programación orientada a objetos: Dart, Python, Java, JavaScript, TypeScript.</p>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="card text-center">
+            <img class="card-img-top rounded-circle" src={{ react }} alt="Avatar" style="width: 80px; height: 80px;">
+            <div class="card-body">
+              <h3 class="card-title">Frontend Dev React, NextJS</h3>
+              <p class="card-text">Apasionado de UI/UX. Más de 4 años de experiencia en desarrollo en frameworks HTML, CSS, JS, React y NextJS.</p>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="card text-center">
+            <img class="card-img-top rounded-circle" src={{ flutter }} alt="Avatar" style="width: 50px; height: 50px;">
+            <div class="card-body">
+              <h3 class="card-title">Flutter Dev Android, iOS</h3>
+              <p class="card-text">Hábil en el desarrollo de aplicaciones móviles híbridas y soluciones multiplataforma utilizando el marco Flutter.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#slider" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#slider" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
+  <br><br><br><hr>
+
+  <div class="container">
+    <div class="row">
+        <div class="col-4">
+            <div class="card card-white post">
+              <div class="card card-white post">
+                <div class="card-header post-heading">
+                  <div class="float-left image">
+                    <img src="http://bootdey.com/img/Content/user_1.jpg" class="img-circle avatar" alt="user profile image">
+                  </div>
+                  <div class="float-left meta">
+                    <div class="title h5">
+                      <a href="#"><b>Ryan Haywood</b></a> made a post.
+                    </div>
+                    <button class="btn btn-warning">reply</button>
+                    <h6 class="text-muted time">3 minute ago</h6>
+                  </div>
+                </div>
+                <div class="card-body post-description">
+                  <p>Bootdey is a gallery of free snippets resources templates and utilities for bootstrap css hmtl js framework. Codes for developers and web designers</p>
+                </div>
+              </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="card card-white post">
+              <div class="card card-white post">
+                <div class="card-header post-heading">
+                  <div class="float-left image">
+                    <img src="http://bootdey.com/img/Content/user_3.jpg" class="img-circle avatar" alt="user profile image">
+                  </div>
+                  <div class="float-left meta">
+                    <div class="title h5">
+                      <a href="#"><b>Ernesto Gonzalez</b></a> made a post.
+                    </div>
+                    <button class="btn btn-warning">reply</button>
+                    <h6 class="text-muted time">34 minute ago</h6>
+                  </div>
+                </div>
+                <div class="card-body post-description">
+                  <p>Bootdey is a gallery of free snippets resources templates and utilities for bootstrap css hmtl js framework. Codes for developers and web designers</p>
+                </div>
+              </div>            
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="card card-white post">
+              <div class="card card-white post">
+                <div class="card-header post-heading">
+                  <div class="float-left image">
+                    <img src="http://bootdey.com/img/Content/user_2.jpg" class="img-circle avatar" alt="user profile image">
+                  </div>
+                  <div class="float-left meta">
+                    <div class="title h5">
+                      <a href="#"><b>Carolina Gutierrez</b></a> made a post.
+                    </div>
+                    <button class="btn btn-warning">reply</button>
+                    <h6 class="text-muted time">6 minute ago</h6>
+                  </div>
+                </div>
+                <div class="card-body post-description">
+                  <p>Bootdey is a gallery of free snippets resources templates and utilities for bootstrap css hmtl js framework. Codes for developers and web designers</p>
+                </div>
+              </div>            
+            </div>
+        </div>
+    </div>
+</div>
+  
+<br><br><br><hr>
+<form class="container" data-aos="slide-right" data-aos-duration="1000" data-aos-repeat="true">
+  <div class="row">
+      <div class="col-md-12">
+          <div class="form-group">
+              <p class="h3 italic">Reseñar</p>
+              <textarea class="form-control" rows="5" placeholder="Textarea" aria-label="Textarea"></textarea>
+              <button class="btn btn-default demo btn-warning" type="button" onclick="UIkit.notification({message: 'Esta función aún no está disponible', status: 'warning'})">Submit</button>
+          </div>
+      </div>
+  </div>
+</form>
+<br><br><br><hr>
+
+
+{% endblock %}

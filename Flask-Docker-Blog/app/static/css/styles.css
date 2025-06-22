@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+:root{
+    --font-logo: 'Amatic SC';
+    --secondary-font: 'Courier Prime', monospace;
+    --main-color: antiquewhite;
+    --secondary-color: aliceblue;
+
+}
+
+body{
+    background-color: var(--main-color);
+    height: auto;
+
+}
+
+.body-inicio{
+    background-color: #9999;
+
+}
+
+.name-page{
+    font-family: var(--font-logo);
+    font-size: 35px;
+    color: var(--secondary-color);
+
+}
+
+.font-logo{
+    font-family: var(--font-logo);
+
+}
+
+.secondary-font{
+    font-family: var(--secondary-font);
+
+}
+
+.container-form-register{
+    box-shadow: 1px 3px 8px 10px rgba(20, 20, 20, 0.3);
+    margin: 0px auto 0;
+    width: 720px;
+    height: 550px;
+    padding: 20px;
+    padding-left: 0;
+    background-color: var(--secondary-color);
+
+}
+
+.container-form-login{
+    box-shadow: 1px 3px 8px 10px rgba(20, 20, 20, 0.3);
+    margin: 0px auto 0;
+    width: 720px;
+    height: 510px;
+    padding: 20px;
+    background-color: var(--secondary-color);
+
+}
+
+.section-posts{
+    height: 1500px;
+    box-shadow: 1px 3px 8px 10px rgba(20, 20, 20, 0.3);
+    background-color: var(--secondary-color);
+    
+}
+
+.section-comments{
+    padding-top: 20px;
+    width: 1140px;
+    box-shadow: 3px 8px 10px rgba(20, 20, 20, 0.3);
+    background-color: var(--secondary-color);
+
+}
+
+.date-post{
+    font-size: 30px;
+
+}
+
+.content-post{
+    margin: 20px;
+    line-height: 50px;
+    padding: 6px;
+
+}
+
+.nothing-for-today{
+    width: 1000px;
+    height: 1000px;
+
+}
+
+.bg-post{
+    background-color: #9999;
+
+}
+
+.title-create-post{
+    font-size: 27px;
+
+}
+
+.container-form-post{
+    box-shadow: 1px 3px 8px 10px rgba(20, 20, 20, 0.3);
+    margin: 0px auto 0;
+    width: 720px;
+    height: 800px;
+    padding: 20px;
+    padding-left: 0;
+    background-color: var(--secondary-color);
+
+}
