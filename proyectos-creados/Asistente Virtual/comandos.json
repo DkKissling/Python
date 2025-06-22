@@ -1,0 +1,186 @@
+{
+  "abrir_youtube": {
+    "keywords": [
+      "abrir youtube",
+      "quiero youtube",
+      "youtube",
+      "poné youtube",
+      "dale el youtube",
+      "abrime el youtube"
+    ],
+    "funcion": "comando_abrir_youtube"
+  },
+  "abrir_navegador": {
+    "keywords": [
+      "abrir navegador",
+      "quiero internet",
+      "navegador",
+      "abrime el chrome",
+      "dale el google",
+      "poné el navegador"
+    ],
+    "funcion": "comando_abrir_navegador"
+  },
+  "preguntar_dia": {
+    "keywords": [
+      "qué día es hoy",
+      "decime el día",
+      "dia de hoy",
+      "qué día tenemos",
+      "che qué día es",
+      "en qué día estamos"
+    ],
+    "funcion": "comando_pedir_dia"
+  },
+  "preguntar_hora": {
+    "keywords": [
+      "qué hora es",
+      "decime la hora",
+      "hora",
+      "che qué hora tenés",
+      "qué hora tenés",
+      "mirá la hora"
+    ],
+    "funcion": "comando_pedir_hora"
+  },
+  "broma": {
+    "keywords": [
+      "broma",
+      "cuéntame un chiste",
+      "dime un chiste",
+      "tirá un chiste",
+      "decime un chiste",
+      "contame un chiste",
+      "tenés algún chiste"
+    ],
+    "funcion": "comando_contar_broma"
+  },
+  "buscar_wikipedia": {
+    "keywords": [
+      "busca en wikipedia",
+      "buscar en wikipedia",
+      "fijate en wikipedia",
+      "chusmea en wikipedia",
+      "buscá en la wiki"
+    ],
+    "funcion": "comando_buscar_wikipedia"
+  },
+  "buscar_internet": {
+    "keywords": [
+      "busca en internet",
+      "buscar en internet",
+      "googleá",
+      "fíjate en internet",
+      "busca en google"
+    ],
+    "funcion": "comando_buscar_internet"
+  },
+  "reproducir_youtube": {
+    "keywords": [
+      "reproducir",
+      "pon el video",
+      "poné el video",
+      "dale play a",
+      "reproducime",
+      "pasame el video de"
+    ],
+    "funcion": "comando_reproducir_youtube"
+  },
+  "precio_accion": {
+    "keywords": [
+      "precio de las acciones",
+      "precio acción",
+      "cómo está la acción de",
+      "cotización de",
+      "a cómo está"
+    ],
+    "funcion": "comando_precio_accion"
+  },
+  "cerrar_programa": {
+    "keywords": [
+      "cerrar programa",
+      "salir",
+      "adiós",
+      "chau",
+      "hasta luego",
+      "me voy",
+      "apagate"
+    ],
+    "funcion": "comando_cerrar"
+  },
+  "clima": {
+    "keywords": [
+      "qué tiempo hace",
+      "cómo está el clima",
+      "clima",
+      "qué onda el clima",
+      "cómo está afuera",
+      "hace calor",
+      "hace frío"
+    ],
+    "funcion": "comando_clima"
+  },
+  "recordatorio": {
+    "keywords": [
+      "recuérdame en",
+      "recordarme en",
+      "avísame en",
+      "fijate de recordarme en",
+      "haceme acordar en"
+    ],
+    "funcion": "comando_recordatorio"
+  },
+  "calculadora": {
+    "keywords": [
+      "calcula",
+      "resuelve",
+      "operación",
+      "hacé la cuenta",
+      "cuánto es",
+      "sácame la cuenta de"
+    ],
+    "funcion": "comando_calculadora"
+  },
+  "noticias": {
+    "keywords": [
+      "últimas noticias",
+      "noticias",
+      "día noticias",
+      "qué hay de nuevo",
+      "qué pasó hoy",
+      "contame las noticias"
+    ],
+    "funcion": "comando_noticias"
+  },
+  "traductor": {
+    "keywords": [
+      "traducir",
+      "traduce",
+      "cómo se dice",
+      "decime en inglés",
+      "pasame a francés"
+    ],
+    "funcion": "comando_traducir"
+  },
+  "timer": {
+    "keywords": [
+      "temporizador",
+      "cronómetro",
+      "inicia timer",
+      "inicia cronómetro",
+      "poné el timer",
+      "empezá a contar"
+    ],
+    "funcion": "comando_timer"
+  },
+  "whatsapp": {
+    "keywords": [
+      "envía whatsapp",
+      "mándame whatsapp",
+      "whatsapp",
+      "mandale un wsp a",
+      "escribile a"
+    ],
+    "funcion": "comando_whatsapp"
+  }
+}
