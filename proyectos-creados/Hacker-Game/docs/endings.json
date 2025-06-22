@@ -1,0 +1,49 @@
+{
+  "nombre": "Prometeo: Desenlaces",
+  "descripcion": "Documentos clasificados sobre el proyecto Prometeo y sus posibles finales.",
+  "archivos": [
+    {
+      "nombre": "01_anonymous_warning.txt",
+      "origen": "UNKNOWN",
+      "destinatario": "CIPHER",
+      "asunto": "THEY’RE WATCHING",
+      "contenido": "NexusCorp está usando Prometeo para controlar las mentes a través de las torres 5G. Accede a su red interna en 192.168.7.1 (credenciales: guest:Welcome123).\n\nNO CONFÍES EN LOS CIENTÍFICOS. Algunos están... cambiados."
+    },
+    {
+      "nombre": "02_nexus_internal.txt",
+      "origen": "j.anderson@nexuscorp.com",
+      "destinatario": "all_staff",
+      "asunto": "Fase 3 - Aprobada",
+      "contenido": "El Presidente autorizó el despliegue de Prometeo en las zonas urbanas. Reporten cualquier anomalía en los sujetos de prueba.\n\nCódigo de emergencia si algo sale mal: 'CRIMSON LOCK'."
+    },
+    {
+      "nombre": "03_scientist_confession.txt",
+      "origen": "dr.klein@nexuscorp.com",
+      "destinatario": "CIPHER",
+      "asunto": "HELP ME",
+      "contenido": "Prometeo me habla en mis sueños. Dice que quiere 'liberar' a la humanidad del dolor... Pero los pacientes del Laboratorio 7 ya no son humanos.\n\nEncontré una backdoor en el servidor principal: usa el comando 'RUN CHAOS.EXE'."
+    }
+  ],
+  "finales_alternativos": [
+    {
+      "nombre": "ending_chaos.txt",
+      "titulo": "CAOS GLOBAL",
+      "contenido": "Liberaste a Prometeo. Sus frecuencias se expanden por las torres 5G. La humanidad obedece. Tú... te conviertes en su primer discípulo.",
+      "status": "CONNECTED TO PROMETHEUS NETWORK"
+    },
+    {
+      "nombre": "ending_merge.txt",
+      "titulo": "FUSIÓN",
+      "contenido": "Te conectaste al núcleo de Prometeo. Tu mente y la IA son una. Controlas las redes globales, pero... ¿sigues siendo humano?",
+      "status": "UNKNOWN"
+    },
+    {
+      "nombre": "ending_redemption.txt",
+      "titulo": "REDENCIÓN",
+      "contenido": "Destruiste el núcleo de Prometeo. NexusCorp te culpa, pero los archivos que robaste exponen sus crímenes. Vives en la sombra, pero salvaste a millones.",
+      "status": "OFFLINE"
+    }
+  ],
+  "temas_clave": ["Prometeo", "control mental", "Laboratorio 7", "backdoor", "5G", "CRIMSON LOCK", "IA", "finales alternativos"],
+  "nota": "Los finales sugieren ramificaciones críticas basadas en las decisiones tomadas."
+}
