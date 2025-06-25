@@ -1,74 +1,74 @@
-# 🐍 Colección de Proyectos Python
+# 🐍 Python Projects Collection
 
-Este repositorio contiene una diversa colección de proyectos Python que muestran diferentes aplicaciones y tecnologías. Desde desarrollo web hasta inteligencia artificial y aplicaciones de escritorio, estos proyectos demuestran diversas habilidades de programación.
+This repository contains a diverse collection of Python projects showcasing different applications and technologies. From web development to artificial intelligence and desktop applications, these projects demonstrate various programming skills.
 
-## 🧩 Categorías de Proyectos
+## 🧩 Project Categories
 
-### 🌐 **Desarrollo Web**
-- **Clothing-Store-Flask**: E-commerce completo con carrito de compras y sistema de autenticación
-- **Flask_Docker_Blog**: Blog dockerizado con funcionalidades CRUD
-- **proyecto-16-Django**: Aplicación web construida con Django
+### 🌐 **Web Development**
+- **Clothing-Store-Flask**: Complete e-commerce with shopping cart and authentication system
+- **Flask_Docker_Blog**: Dockerized blog with CRUD functionality
+- **proyecto-16-Django**: Web application built with Django
 
-### 🤖 **Inteligencia Artificial**
-- **Reconocimiento Facial**: Sistema para detectar y reconocer rostros
-- **Reconocer-Rostro-Video**: Identificación facial en videos en tiempo real
-- **proyecto-15-MachineLearning**: Modelos básicos de machine learning
+### 🤖 **Artificial Intelligence**
+- **Reconocimiento Facial**: Face detection and recognition system
+- **Reconocer-Rostro-Video**: Real-time facial recognition in videos
+- **proyecto-15-MachineLearning**: Basic machine learning models
 
-### 🖥️ **Aplicaciones de Escritorio**
-- **Hacker-Game**: Juego interactivo con temática de hacking
-- **CRUD PythonWX**: Aplicación CRUD con interfaz wxPython
-- **proyecto12-Tkinter**: Varias apps con interfaz gráfica Tkinter
+### 🖥️ **Desktop Applications**
+- **Hacker-Game**: Interactive hacking-themed game
+- **CRUD PythonWX**: CRUD application with wxPython interface
+- **proyecto12-Tkinter**: Various apps with Tkinter GUI
 
-### ⚙️ **Herramientas y Utilidades**
-- **Organizador de fotos**: Clasificador automático de imágenes
-- **Asistente Virtual**: Asistente por voz con múltiples funciones
-- **Web Scraping**: Extractores de datos de sitios web
+### ⚙️ **Tools & Utilities**
+- **Organizador de fotos**: Automatic image classifier
+- **Asistente Virtual**: Voice assistant with multiple functions
+- **Web Scraping**: Data extractors from websites
 
-### 🎮 **Juegos y Entretenimiento**
-- **PyGame Projects**: Colección de juegos desarrollados con PyGame
-- **Hanged-Tinker**: Versión gráfica del juego del ahorcado
-- **AdivinaNro**: Juego interactivo para adivinar números
+### 🎮 **Games & Entertainment**
+- **PyGame Projects**: Collection of games developed with PyGame
+- **Hanged-Tinker**: Graphical version of hangman game
+- **AdivinaNro**: Interactive number guessing game
 
-### 📊 **Análisis de Datos**
-- **evaluativo1-spotify_analytics**: Analizador de datos de Spotify
-- **instancia-evaluativa-SeleccionArgentina**: Estadísticas de jugadores de fútbol
-- **Gestor-de-Películas**: Sistema para gestionar colecciones de cine
+### 📊 **Data Analysis**
+- **evaluativo1-spotify_analytics**: Spotify data analyzer
+- **instancia-evaluativa-SeleccionArgentina**: Football player statistics
+- **Gestor-de-Películas**: Movie collection management system
 
-## 🚀 Cómo Empezar
+## 🚀 Getting Started
 
-Cada proyecto tiene su propio README con instrucciones específicas. Para explorar:
+Each project has its own README with specific instructions. To explore:
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
+# Clone the repository
+git clone https://github.com/your-username/your-repository.git
 
-# Navegar a un proyecto específico
-cd tu-repositorio/nombre-del-proyecto
+# Navigate to a specific project
+cd your-repository/project-name
 
-# Seguir las instrucciones en el README.md del proyecto
+# Follow instructions in the project's README.md
 ```
 
-## 💻 Tecnologías Utilizadas
-- **Lenguajes**: Python 3
-- **Frameworks Web**: Flask, Django
-- **Interfaces Gráficas**: Tkinter, wxPython, PyGame
-- **IA/ML**: OpenCV, scikit-learn, dlib
-- **Herramientas**: Docker, SQLite, BeautifulSoup
+## 💻 Technologies Used
+- **Languages**: Python 3
+- **Web Frameworks**: Flask, Django
+- **GUI Frameworks**: Tkinter, wxPython, PyGame
+- **AI/ML**: OpenCV, scikit-learn, dlib
+- **Tools**: Docker, SQLite, BeautifulSoup
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
-| Nombre del Proyecto | Descripción | Tecnologías Clave |
-|---------------------|-------------|------------------|
-| **Asistente Virtual** | Asistente por voz con control de sistema | Voz a texto, Automatización |
-| **Organizador de fotos** | Clasificador automático de imágenes | Procesamiento de imágenes |
-| **Reconocer-Rostro-Video** | Identificación facial en videos | OpenCV, Reconocimiento facial |
-| **Hacker-Game** | Juego interactivo de temática hacker | PyGame, Interfaz gráfica |
-| **Clothing-Store-Flask** | Tienda online completa | Flask, SQLite, Stripe API |
+| Project Name | Description | Key Technologies |
+|--------------|-------------|------------------|
+| **Asistente Virtual** | Voice-controlled system assistant | Speech-to-text, Automation |
+| **Organizador de fotos** | Automatic image organizer | Image processing |
+| **Reconocer-Rostro-Video** | Real-time facial recognition in videos | OpenCV, Facial recognition |
+| **Hacker-Game** | Interactive hacking-themed game | PyGame, GUI |
+| **Clothing-Store-Flask** | Complete online store | Flask, SQLite, Stripe API |
 
-## 📄 Licencia
+## 📄 License
 
-Este repositorio está bajo licencia [MIT](LICENSE). Los proyectos individuales pueden tener sus propias licencias - consulte el archivo README dentro de cada directorio.
+This repository is licensed under [MIT](LICENSE). Individual projects may have their own licenses - please check the README file inside each directory.
 
 ---
 
-**✨ "La mejor manera de predecir el futuro es implementarlo" - Alan Kay**
+**✨ "The best way to predict the future is to implement it" - Alan Kay**
